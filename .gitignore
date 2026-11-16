@@ -1,0 +1,12 @@
+# Personal notes (kept local)
+ROADMAP.md
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Env files
+.env
+.env.*
+!.env.example
